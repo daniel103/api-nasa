@@ -52,7 +52,7 @@ function App() {
         id="date"
         label="Nasa Date"
         type="date"
-        defaultValue="2017-05-24"
+        defaultValue=""
         onChange={Change}
         sx={{ width: 220 }}
         InputLabelProps={{
